@@ -1,6 +1,6 @@
-echo "# my-first-repository" >> README.md
+echo "# my-first-repository" >> 
 git init
-git add README.md
+git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ovik-JR539/my-first-repository.git
